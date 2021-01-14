@@ -1,0 +1,21 @@
+List of "next steps" in development tasks. Also, includes some "long-shot," more grandiose future goals at the bottom of the page,
+if time permits throughout the coming year.
+
+TODO:
+- Version 2:
+  Screen resize issues, input lag on controls, ACTUAL collisions with walls (!), TEXTURES !!!, conditional open doors (press e), floor textures.
+- Make separate header files for levels' floors, wall textures, etc. System for adding them in game.
+- Make some custom textures
+- While we're here, is there a good tool to too turn bitmap images of a fixex size into boolean arrays?
+- PORT ENGINE TO FREEGLUT!!! (This involves actually learning some FreeGlut from the Pentamollis project; buying the book on computer graphics
+
+Intermediate goal:
+- Eliminate second screen / Top-down. Resize window accordingly! (Perhaps make some function that enables it as a debug feature???
+
+
+LONG-TERM PROJECTS:
+- Optimize game and convert to C that is usable in a Gameboy Advance!
+- Add a title screen, menu, HUD. All things that make a game a staple.
+- Add support for RGB textures, converted from bitmap.
+- Add sprites / enemies / prop WITH animations!
+- Add guns, projectiles, animations, etc.!!
