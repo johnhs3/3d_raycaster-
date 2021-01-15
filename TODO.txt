@@ -2,8 +2,7 @@ List of "next steps" in development tasks. Also, includes some "long-shot," more
 if time permits throughout the coming year.
 
 TODO:
-- Version 2:
-  Screen resize issues, input lag on controls, ACTUAL collisions with walls (!), TEXTURES !!!, conditional open doors (press e), floor textures.
+-
 - Make separate header files for levels' floors, wall textures, etc. System for adding them in game.
 - Make some custom textures
 - While we're here, is there a good tool to too turn bitmap images of a fixex size into boolean arrays?
